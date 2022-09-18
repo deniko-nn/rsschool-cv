@@ -49,4 +49,4 @@ function validParentheses(parens) {
 
 - Email: **<astanavden@gmail.com>**
 - Vkontakte: **[Dementy Benedetti](https://vk.com/yushka19)**
-- Discord: **[Denny#9346](https://discordapp.com/users/355352693180596224)** 
+- Discord: **[Denny#9346](https://discordapp.com/users/355352693180596224)**  
